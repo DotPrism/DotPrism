@@ -22,3 +22,10 @@
   ### But after I got home this year, October 15 2022, I continued to do more programming in C++!
   ### As a relult of being gone for so long, I had gotten a little bit rusty is what I like to call it when I had not done something in a long time.
   ### But all that aside, here I am writing this now!
+
+# Current Projects
+  ### Java Projects
+  #### [Immersive Intelligence](https://github.com/Team-Immersive-Intelligence/ImmersiveIntelligence).
+    A mod about Intelligence, Data and Electronics, Logistics, Motorworks, and Warfare
+  #### [Immersive Atomics](https://github.com/DotPrism/Immersive-Atomics). NOTE: Immersive Atomics is currently on hold as I am mainly working on contributing to Immersive Intelligence
+    A mod about Nuclear Power, Nuclear Fuel Enrichment, and Particle Physics.
