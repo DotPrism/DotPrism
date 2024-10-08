@@ -26,6 +26,6 @@
 # Current Projects
   ### Java Projects
   #### [Immersive Intelligence](https://github.com/Team-Immersive-Intelligence/ImmersiveIntelligence).
-    A mod about Intelligence, Data and Electronics, Logistics, Motorworks, and Warfare
+  ##### A mod about Intelligence, Data and Electronics, Logistics, Motorworks, and Warfare
   #### [Immersive Atomics](https://github.com/DotPrism/Immersive-Atomics). NOTE: Immersive Atomics is currently on hold as I am mainly working on contributing to Immersive Intelligence
-    A mod about Nuclear Power, Nuclear Fuel Enrichment, and Particle Physics.
+  ##### A mod about Nuclear Power, Nuclear Fuel Enrichment, and Particle Physics.
