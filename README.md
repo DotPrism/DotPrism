@@ -24,9 +24,6 @@
 
 # Current Projects
   ### Java Projects
-  #### [Immersive Intelligence](https://github.com/Team-Immersive-Intelligence/ImmersiveIntelligence).
-  ##### A mod about Intelligence, Data and Electronics, Logistics, Motorworks, and Warfare
-  #### [Immersive Atomics](https://github.com/DotPrism/Immersive-Atomics). NOTE: Immersive Atomics is currently on hold as I am mainly working on contributing to Immersive Intelligence
+  #### [Immersive Atomics](https://github.com/DotPrism/Immersive-Atomics). NOTE: Immersive Atomics is currently on hold!
   ##### A mod about Nuclear Power, Nuclear Fuel Enrichment, and Particle Physics.
-  #### [Additional Engineering](https://github.com/Team-Immersive-Intelligence/Additional-Engineering).
-  ##### A mod that adds niche things to the game for the official The Engineering Department [Discord Server](https://discord.gg/FH6tC4JPcE)
+
