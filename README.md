@@ -24,6 +24,14 @@
 
 # Current Projects
   ### Java Projects
+  
   #### [Immersive Atomics](https://github.com/DotPrism/Immersive-Atomics). NOTE: Immersive Atomics is currently on hold!
   ##### A mod about Nuclear Power, Nuclear Fuel Enrichment, and Particle Physics.
+
+  #### [Immersive Technology](https://github.com/tgstyle/MCT-Immersive-Technology). NOTE: Immersive Technology is not my mod. I am simply a developer for it
+  ##### Energy Technology addon for Immersive Engineering, forked from Immersive Tech.
+
+  ### C++ Projects
+  #### [Prism-Engine](https://github.com/DotPrism/Prism-Engine).
+  ##### A Game Engine to suit my needs. Will have a standard editor like Unity and Unreal Engine, and a code only option like Cocos2D-X. It will also include a voxel engine and support multiple rendering API's.
 
